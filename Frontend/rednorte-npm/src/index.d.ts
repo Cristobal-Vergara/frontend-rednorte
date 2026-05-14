@@ -1,0 +1,1 @@
+declare module 'rednorte-npm';
